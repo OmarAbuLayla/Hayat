@@ -58,4 +58,11 @@ LinkedIn: https://linkedin.com/in/omar-abulayla
 - Dockerize for easier deployment
 
 ---
+## 🎥 Demo
+
+Check out the full walkthrough of Hayat AI in action:
+
+[![Hayat AI Demo](https://img.youtube.com/vi/0/0.jpg)](https://github.com/OmarAbuLayla/Hayat/blob/main/Hayat_demo.mp4)
+
+ [Click here to watch the Hayat AI demo video](https://github.com/OmarAbuLayla/Hayat/blob/main/Hayat_demo.mp4)
 
